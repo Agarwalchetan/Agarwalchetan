@@ -42,7 +42,7 @@ _Check out my repositories for more details on these and other projects._
 
 ![Chetan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Agarwalchetan&show_icons=true&theme=radical)
 
-> You can also display additional stats like your top languages:
+
 > 
 > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agarwalchetan&layout=compact&theme=radical)
 
