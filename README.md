@@ -25,18 +25,6 @@ Here are a few technologies and tools that I work with:
 - **Databases:** MongoDB, PostgreSQL
 - **Other Tools:** Git, Docker, VSCode,
 
-## 💼 Projects & Contributions
-
-Here are some of the projects I’m proud of:
-
-- [**Project Portfolio**](https://github.com/Agarwalchetan/portfolio_web)  
-  *Created a personal portfolio website to showcase my projects and technical skills in web development, software engineering, and game development. The site highlights my expertise in frontend technologies, problem-solving, and continuous learning*
-
-- [**Project Apple Store Clone**](https://github.com/Agarwalchetan/apple-clone)  
-  *Alone Store Clone: Elevate your shopping experience, one click at a time.*
-
-
-_Check out my repositories for more details on these and other projects._
 
 ## 📊 GitHub Stats
 
