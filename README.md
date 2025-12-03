@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Development & AIML Engineer<br>🌱 I’m learning new technologies in Software Development, Artificial Intelligence, Machine Learning etc.]<br>👯 I’m looking to collaborate on projects that challenge me and help grow my skills.<br>💬 Ask me about anything related to coding, technology, or project ideas!<br>📫 How to reach me: agarwalchetan1302@gmail.com<br>⚡ Fun fact: Coding my way through challenges and turning ideas into reality.
+🔭 I’m currently working on Full Stack Development & AIML Engineer<br>🌱 I’m learning new technologies in Software Development, Artificial Intelligence, Machine Learning etc.<br>👯 I’m looking to collaborate on projects that challenge me and help grow my skills.<br>💬 Ask me about anything related to coding, technology, or project ideas!<br>📫 How to reach me: agarwalchetan1302@gmail.com<br>⚡ Fun fact: Coding my way through challenges and turning ideas into reality.
 
 
 ## 🌐 Socials:
