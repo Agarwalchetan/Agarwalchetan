@@ -10,11 +10,14 @@
 # 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=AgarwalChetan&theme=tokyonight&hide_border=true) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AgarwalChetan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact) <br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AgarwalChetan&theme=tokyonight) <br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AgarwalChetan&theme=tokyonight) <br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AgarwalChetan&theme=tokyonight) <br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AgarwalChetan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AgarwalChetan&theme=tokyonight&utcOffset=8) <br/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AgarwalChetan&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AgarwalChetan&theme=tokyonight) <br/>
+
 
 
 
