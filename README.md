@@ -10,7 +10,9 @@
 # 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=AgarwalChetan&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AgarwalChetan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AgarwalChetan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact) <br/>
+
+![](https://camo.githubusercontent.com/46d8662228f3a768dfa57cb9ed7666f6eea70ae297b56e017cc2870145e7e0ba/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d686f616e67736f6e7777266c61796f75743d636f6d70616374267468656d653d7261646963616c266c616e67735f636f756e743d3230)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AgarwalChetan&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
