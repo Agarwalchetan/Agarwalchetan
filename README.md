@@ -1,5 +1,28 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Development & AIML Engineer<br>🌱 I’m learning new technologies in Software Development, Artificial Intelligence, Machine Learning etc.<br>👯 I’m looking to collaborate on projects that challenge me and help grow my skills.<br>💬 Ask me about anything related to coding, technology, or project ideas!<br>📫 How to reach me: agarwalchetan1302@gmail.com<br>⚡ Fun fact: Coding my way through challenges and turning ideas into reality.
+```js
+const AgarwalChetan = {
+  role: ["Full Stack Developer", "AI/ML Engineer"],
+  currentlyWorkingOn: ["Full Stack Development", "AI & Machine Learning"],
+  learning: [
+    "Software Development",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "New & Emerging Technologies"
+  ],
+  openToCollaborateOn: [
+    "Challenging projects",
+    "Skill-growth focused ideas",
+    "Real-world problem solving"
+  ],
+  askMeAbout: ["Coding", "Technology", "Project Ideas"],
+  contact: {
+    email: "agarwalchetan1302@gmail.com"
+  },
+  funFact: "Coding my way through challenges and turning ideas into reality 🚀"
+};
+
+
+```
 
 
 ## 🌐 Socials:
